@@ -34,9 +34,9 @@ Fine-tuning and Evaluating Large Language Models
 * I explored the concept of Parameter-efficient Fine Tuning (PEFT) and learned how it reduces computational costs and avoids catastrophic forgetting.
 * I delved into how fine-tuning with instructions and prompt datasets can enhance LLM performance across various tasks.
 
-[Lab 2 - Fine-tune a Generative AI Model for Dialogue Summarization](Add link)
+[Lab 2 - Fine-tune a Generative AI Model for Dialogue Summarization](https://github.com/nsurya-0698/genAI-with-Large-Language-Models/blob/main/Week-Two/Lab_2_fine_tune_generative_ai_model.ipynb)
 
-[Week 2 Quiz](Add link)
+[Week 2 Quiz](https://github.com/nsurya-0698/genAI-with-Large-Language-Models/blob/main/Week-Two/Week-2_Quiz.md)
 
 ## Week 3
 Reinforcement Learning and LLM-Powered Applications
@@ -47,6 +47,6 @@ Reinforcement Learning and LLM-Powered Applications
 * I learned about chain-of-thought prompting and how it can enhance reasoning and planning abilities in LLMs.
 * I explored the challenges LLMs face, such as knowledge cut-offs, and learned about information retrieval and augmentation techniques to address these challenges.
 
-[Lab 3 - Fine-tune FLAN-T5 with Reinforcement Learning for Positive Summaries](Add link)
+[Lab 3 - Fine-tune FLAN-T5 with Reinforcement Learning for Positive Summaries](https://github.com/nsurya-0698/genAI-with-Large-Language-Models/blob/main/Week-Three/Lab_3_fine_tune_model_to_detoxify_summaries.ipynb)
 
-[Week 3 Quiz](Add link)
+[Week 3 Quiz](https://github.com/nsurya-0698/genAI-with-Large-Language-Models/blob/main/Week-Three/Week-3_Quiz.md)
